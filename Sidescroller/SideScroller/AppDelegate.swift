@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  Sidescroller
+//  SideScroller
 //
 //  Created by Ben Berman on 5/4/22.
 //
